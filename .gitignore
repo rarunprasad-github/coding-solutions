@@ -1,0 +1,15 @@
+*.DS_Store
+
+# Go
+/go/bin/
+/go/pkg/
+
+# Scala
+/scala/target/
+/scala/project/target/
+/scala/project/project/
+
+# IDE Specific
+.idea/
+.vscode/
+
