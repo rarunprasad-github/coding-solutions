@@ -9,6 +9,9 @@
 /scala/project/target/
 /scala/project/project/
 
+# JS/TS
+**/node_modules
+
 # IDE Specific
 .idea/
 .vscode/

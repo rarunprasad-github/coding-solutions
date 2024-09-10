@@ -1,4 +1,4 @@
-package spiral.matrix.iii
+package matrix.spiral.iii
 
 import org.scalatest.funsuite.AnyFunSuite
 
